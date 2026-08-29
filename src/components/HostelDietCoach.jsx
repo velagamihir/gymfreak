@@ -60,10 +60,10 @@ export default function HostelDietCoach() {
         }}>
           <div style={{ display: 'flex', alignItems: 'center', gap: '8px', marginBottom: '6px' }}>
             <span style={{ fontSize: '20px' }}>🥚</span>
-            <h3 style={{ fontSize: '16px', color: 'var(--accent-emerald)' }}>Tuesday: Boiled Eggs Special</h3>
+            <h3 style={{ fontSize: '16px', color: 'var(--accent-emerald)' }}>Tuesday: 1 Boiled Egg Mess Day</h3>
           </div>
           <p style={{ fontSize: '13px', color: 'var(--text-secondary)', lineHeight: '1.4' }}>
-            <strong>Your Action:</strong> Take <strong>3 to 4 boiled eggs</strong> from the mess counter. Eat 2 whole eggs + 2 egg whites. This injects <strong>+24g of pure high-grade protein</strong> with zero excess carbs!
+            <strong>Your Action:</strong> Take your <strong>1 boiled egg</strong> from the mess token counter (gives <strong>+6g protein</strong>, 70 kcal). To hit your daily 140g target without extra carbs, add <strong>40g kettle-soaked Soya Chunks (+21g protein)</strong> or <strong>1 Amul Protein Lassi (+15g protein)</strong> to your room routine.
           </p>
         </div>
 

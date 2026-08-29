@@ -51,7 +51,7 @@ The workout split is 100% tailored to the available equipment:
   - 3 dry phulkas/rotis + 1 bowl sabzi + 1 small bowl curd rice (probiotic gut health & restful sleep).
 
 ### 2. Special Meal Days
-- **🥚 Tuesday Special (Boiled Eggs):** Take **3 to 4 boiled eggs** from the mess counter (+24g high-bioavailability protein).
+- **🥚 Tuesday Special (1 Boiled Egg):** The mess gives **1 boiled egg** (+6g protein, 70 kcal). Pair with room hacks (40g soya chunks or Amul lassi) to easily cover your dinner protein requirement.
 - **🍳 Friday Special (Egg Fried Rice):** 1.5 cups portion cap as a post-workout carb reload (avoid oily Manchurian/gravies).
 
 ### 3. 6 Zero-Cooking Hostel Room Protein Hacks (Hit 140g Daily)

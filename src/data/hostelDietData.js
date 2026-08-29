@@ -114,9 +114,9 @@ export const messMealSchedule = {
     specialDays: [
       {
         day: "Tuesday Special",
-        tag: "🥚 Boiled Eggs Bonus",
+        tag: "🥚 1 Boiled Egg Mess Day",
         badgeColor: "#10b981",
-        instructions: "Tuesday is your egg day in the mess! Take 3 to 4 boiled eggs (eat 2 whole + 2 whites, or all 3 whole). This provides +22g to +26g of the highest bio-available protein."
+        instructions: "The mess provides 1 boiled egg (~6g protein, 70 kcal). Eat the whole egg. Since 1 egg leaves a ~20g protein gap for dinner, pair it with 40g kettle-soaked Soya Chunks (+21g protein) or 1 tetra pack of Amul Protein Lassi (+15g protein) from your room stash to easily hit your daily 140g protein target."
       },
       {
         day: "Friday Special",

@@ -108,7 +108,7 @@ export const weeklyPlan = [
     dayName: "Tuesday",
     title: "Pull Strength & Air Bike Fat Burn",
     subtitle: "Back, Lats, Biceps, Rear Delts + Air Bike HIIT",
-    tag: "Pull Day A (Boiled Eggs Day 🥚)",
+    tag: "Pull Day A (1 Boiled Egg Day 🥚)",
     color: "#10b981",
     duration: "55-65 mins",
     caloriesBurn: "~450 kcal",
@@ -118,7 +118,7 @@ export const weeklyPlan = [
       "Band or light dumbbell pull-aparts (2 sets x 15 reps)",
       "Air bike slow pedal (2 mins)"
     ],
-    dietHighlight: "Tuesday Bonus: Today your mess provides Boiled Eggs! Make sure to take 3-4 boiled eggs for +24g pure muscle-repair protein.",
+    dietHighlight: "Tuesday Mess Note: Mess provides 1 Boiled Egg (+6g protein). Combine it with 40g kettle-soaked Soya Chunks (+21g protein) or 1 Amul Protein Lassi to power your back & bicep recovery.",
     exercises: [
       {
         id: "ex_bb_bent_row",
